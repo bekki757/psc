@@ -1,1 +1,1 @@
-# psc
+The Python script checks the strength of a password based on various criteria: length, presence of lowercase letters, uppercase letters, digits, and special characters. It uses regular expressions to perform these checks. If the password meets all criteria, it is considered "Strong"; otherwise, it is "Weak".
